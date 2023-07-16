@@ -42,6 +42,7 @@ This project contains a blockchain-based ledger system, complete with a user-fri
 
 <img width="1431" alt="Screenshot 2023-07-15 at 10 10 16 PM" src="https://github.com/djohnst914/github_upload/assets/123714457/ac0c213c-6e9d-417b-8d32-fc87300ca1e2">
 
+![Screenshot 2023-07-15 at 10 10 31 PM](https://github.com/djohnst914/github_upload/assets/123714457/a93ada40-bb21-45c8-b47e-e719d5b41f95)
 
 ## *Contributor*
 
