@@ -26,7 +26,7 @@ This project contains a blockchain-based ledger system, complete with a user-fri
 
             conda create -n dev python=3.7 anaconda
 
-2.Ensure necessary libraries are installed on your operating machine, list of required libraries in Libraries section       
+2.Ensure necessary libraries are installed on your operating machine, list of required libraries in libraries section       
 
 
 ## *Usage*
